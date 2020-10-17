@@ -32,7 +32,8 @@ namespace credito_residuo_bancomat
                     }          
                 } 
                 contatore++;
-            } // francesco billardello
+            } // francesco billardello, 3B inf.
+
         
 
         }
